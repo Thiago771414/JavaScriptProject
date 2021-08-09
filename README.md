@@ -10,7 +10,7 @@
 # Tecnologias utilizadas
 
 ## Back end
-- Java Script
+- Java Script, HTML, CSS
 
 # Sobre o Curso
 https://www.alura.com.br/cursos-online-front-end/jquery
